@@ -1,4 +1,4 @@
-package com.damocode.iot.starter.autoconfigure;
+package org.damocode.iot.starter.autoconfigure;
 
 import lombok.extern.slf4j.Slf4j;
 import org.damocode.iot.core.device.DeviceOperator;

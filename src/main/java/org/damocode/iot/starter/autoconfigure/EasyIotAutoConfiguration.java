@@ -1,4 +1,4 @@
-package com.damocode.iot.starter.autoconfigure;
+package org.damocode.iot.starter.autoconfigure;
 
 import cn.hutool.core.util.IdUtil;
 import io.vertx.core.Vertx;

@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.damocode.iot.starter.autoconfigure.EasyIotAutoConfiguration
+org.damocode.iot.starter.autoconfigure.EasyIotAutoConfiguration
